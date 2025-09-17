@@ -10,7 +10,7 @@
 -   Display only visible markers on the plan / 15 mins
 -   Soft deletes of tasks / 15 mins
 
-Overall 4h 30min
+    Overall 4h 30min
 
 2. **What should be improved**
 
@@ -20,3 +20,7 @@ Overall 4h 30min
 -   add more test cases for component and db
 -   improve auth for user login
 -   add horizontal and vertical scroll for plan view
+
+**Loom video for short explanation**
+
+https://www.loom.com/share/7c53ef8bb9a84f9e9536abf62061883e?sid=82bb3cca-e12b-4808-b018-8482b1cd19c9
